@@ -1,0 +1,38 @@
+* {
+  background-color: #b0a4a4;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  text-align: justify;
+}
+
+header img {
+  height: 150px;
+  width: 150px;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
+
+nav {
+  text-decoration: solid;
+}
+
+nav a {
+  text-decoration: solid;
+  border: 2px;
+  border-color: #5f264a;
+  background-color: #957777;
+  color: #5f264a;
+}
+
+h1,
+h2 {
+  color: #5f264a;
+}
+
+section a {
+  color: #643a6b;
+  text-decoration: solid;
+}
